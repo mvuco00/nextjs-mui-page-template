@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) projects template with [MUI](https://material-ui.com/) components.
+This is a [Next.js](https://nextjs.org/) project startup with [MUI](https://material-ui.com/) components.
 
 ## Getting Started
 
