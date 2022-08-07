@@ -8,7 +8,7 @@ You can use this code when starting a new project.
 
 **config** → in the config folder you can set up env variables
 
-**assets** → in ihe src/public/assets folder you can add icons, images etc.
+**assets** → in the src/public/assets folder you can add icons, images etc.
 
 ## Getting Started
 
